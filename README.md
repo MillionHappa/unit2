@@ -15,4 +15,4 @@ unit1-2024/
 - arduino
 
 ## Project
-[Project: Crypto Wallet](https://github.com/MillionHappa/unit1-2024/blob/main/project/unit1/project1.md)
+[Project: A Distributed Weather Station for ISAK](https://github.com/MayFu2025/unit2_project/blob/main/README.md)
